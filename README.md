@@ -1,1 +1,1 @@
-# Use the tests-> apitestcontent.txt file as a prompt for generting tests
+# Use the testcontents-> apitestcontent.txt file as a prompt for generting tests
